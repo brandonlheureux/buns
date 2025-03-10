@@ -1,0 +1,11 @@
+file_format: "1"
+id: buns
+name: Buns
+type: shield
+url: https://github.com/brandonlheureux/buns
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - buns_left
+  - buns_right
