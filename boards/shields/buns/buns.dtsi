@@ -1,7 +1,7 @@
 #include <dt-bindings/zmk/matrix_transform.h> // Put this with the other includes at the top of your dtsi
 
 
-  / {   
+/ {   
     chosen {
       zmk,physical-layout = &physical_layout0;
       // Other chosen items
