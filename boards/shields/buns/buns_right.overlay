@@ -1,4 +1,4 @@
-#include "my_keyboard.dtsi"
+#include "buns.dtsi"
 
 &default_transform { // Offset of 5 because the left side has 5 columns
     col-offset = <5>;
