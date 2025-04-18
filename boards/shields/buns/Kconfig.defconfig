@@ -9,6 +9,10 @@ config ZMK_SPLIT_ROLE_CENTRAL
     bool "Enable split central role"
     default y
 
+config ZMK_SPLIT_BLE_CENTRAL
+    bool
+    default y
+
 endif
 
 if SHIELD_BUNS_LEFT || SHIELD_BUNS_RIGHT
