@@ -29,4 +29,8 @@ config ZMK_SPLIT_ROLE_PERIPHERAL
     bool "Enable split peripheral role"
     default y
 
+config ZMK_SPLIT_BLE_PERIPHERAL
+    bool "Enable split peripheral BLE role"
+    default y
+
 endif
